@@ -6,7 +6,7 @@ const jokes = [
   "Keep calm and throw color!",
   "Careful! That's permanent Gulal!",
   "Smile please, before I upgrade your face!",
-  "Less drama more Gulal!"
+  "Less drama more Gulal!" 
 ];
 
 // --- Canvas Setup ---
